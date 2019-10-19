@@ -1,5 +1,7 @@
 # heAR
 
+HTN 2019 project. My role is iOS development, including front-end development, ARKit, Core ML feature applications and Azure back end integration.
+
 ## Inspiration
 
 heAR was inspired by striving to create a seamless conversation experience for people who are hearing impaired. Unlike hearing aids or simple speech-to-text, heAR integrates the visual, audio, and emotional aspects of communication to provide an authentic interaction.
